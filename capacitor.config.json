@@ -1,0 +1,7 @@
+{
+  "appId": "com.ionicbymaximillian",
+  "appName": "IONIC4BYMAXIMILLIAN",
+  "bundledWebRuntime": false,
+  "npmClient": "npm",
+  "webDir": "www"
+}
